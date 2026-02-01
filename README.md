@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @renilrajan
 - 👀 I’m interested in getting insights of data sets and use those insights for the betterment of people.
-- 🌱 I’m currently learning API development using efficient coding techniques.
 - 💞️ I’m looking to collaborate on projects which solve real life problems of people. 
 - 📫 I can be reached in the following email. (email:renilrajan1999@gmail.com)
 
