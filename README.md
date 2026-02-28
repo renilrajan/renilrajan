@@ -2,9 +2,9 @@
 I'm a Full-Stack Software Engineer & AI Developer based in Kerala, India. I specialize in designing scalable distributed systems, building intuitive user interfaces, and integrating machine learning models into production-ready applications. With a strong foundation in Java, TypeScript, and Python, I thrive on bridging the gap between robust backend architectures and intelligent, data-driven solutions.
 
 Whether it's training anomaly detection models, architecting event-driven microservices, or crafting responsive enterprise UIs, I enjoy tackling complex engineering challenges from end to end.
-
-
-
+<br>
+<br>
+<br>
 🚀 Complex Systems & AI/ML Projects
 * AI-Driven PII Compliance Guardrail: Developing an advanced Google Workspace Add-on that goes beyond basic pattern matching. Utilizing custom-trained NLP models (Named Entity Recognition) in Python to automatically scan, classify, and mask sensitive PII in real-time document workflows.
 
@@ -13,9 +13,8 @@ Whether it's training anomaly detection models, architecting event-driven micros
 * Full-Stack E-Commerce Architecture with Recommendation Engine: Engineering a highly scalable e-commerce platform inspired by Flipkart. Built with a Java microservices backend and a Next.js/TypeScript frontend, featuring an integrated collaborative filtering ML model to serve personalized product recommendations to users.
 
 * Automated Open-Source Code Reviewer: Exploring the intersection of AI and open-source by fine-tuning lightweight LLMs to act as automated code reviewers. The tool analyzes pull requests in large-scale repositories for best practices, security flaws, and performance optimizations.
-
-
-
+<br>
+<br>
 🛠️ Tech Stack & Expertise
 
 * Core Languages: Java, TypeScript, Python, Kotlin, JavaScript
@@ -29,9 +28,10 @@ Whether it's training anomaly detection models, architecting event-driven micros
 * Tools & Infrastructure: Relational & NoSQL Databases, CI/CD Pipelines, Docker, Linux System Administration
 
 * Open Source: Passionate about reviewing public repositories and exploring large-scale codebases like Visual Studio Code. 
-
-
+<br>
+<br>
 ⚡ Beyond the Screen
+
 
 When I'm not architecting systems or reviewing pull requests, you can usually find me:
 
@@ -40,7 +40,7 @@ When I'm not architecting systems or reviewing pull requests, you can usually fi
 * Automating my day-to-day Linux system configurations with custom Python scripts.
 
 * Building a consistent reading habit with quick, engaging short stories.
-
-
+<br>
+<br>
 📫 I can be reached in the following email. (email:renilrajan1999@gmail.com)
 
