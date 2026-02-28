@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renilrajan
+👋 Hi, I’m @renilrajan
 I'm a Full-Stack Software Engineer & AI Developer based in Kerala, India. I specialize in designing scalable distributed systems, building intuitive user interfaces, and integrating machine learning models into production-ready applications. With a strong foundation in Java, TypeScript, and Python, I thrive on bridging the gap between robust backend architectures and intelligent, data-driven solutions.
 
 Whether it's training anomaly detection models, architecting event-driven microservices, or crafting responsive enterprise UIs, I enjoy tackling complex engineering challenges from end to end.
