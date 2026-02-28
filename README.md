@@ -24,9 +24,6 @@ Frontend: React, Next.js, Modern CSS Frameworks, State Management, Pixel-Perfect
 Tools & Infrastructure: Relational & NoSQL Databases, CI/CD Pipelines, Docker, Linux System Administration
 
 Open Source: Passionate about reviewing public repositories and exploring large-scale codebases like Visual Studio Code. 
-- 📫 I can be reached in the following email. (email:renilrajan1999@gmail.com)
-
-
 ⚡ Beyond the Screen
 When I'm not architecting systems or reviewing pull requests, you can usually find me:
 
@@ -35,6 +32,9 @@ Diving into open-source ecosystems and exploring large-scale codebases like the 
 Automating my day-to-day Linux system configurations with custom Python scripts.
 
 Building a consistent reading habit with quick, engaging short stories.
+
+
+📫 I can be reached in the following email. (email:renilrajan1999@gmail.com)
 <!---
 renilrajan/renilrajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
